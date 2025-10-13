@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/create_db_in_sqlite.py" value="b0dd2bd7-1245-446b-9929-6fe7feea2693" />
+    <file url="file://$PROJECT_DIR$/updateanddelete.sql" value="2cf103f9-1173-4cd7-8b10-c0d4c8ff1234" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b0dd2bd7-1245-446b-9929-6fe7feea2693/console.sql" value="b0dd2bd7-1245-446b-9929-6fe7feea2693" />
+  </component>
+</project>
