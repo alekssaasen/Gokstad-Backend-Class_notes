@@ -2,6 +2,8 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/week 42/filter_city_between_pops.sql" value="92a0fcce-a2c8-47cf-a3a3-d31377c7dc8f" />
+    <file url="file://$PROJECT_DIR$/week 42/init_music_db.sql" value="0228b97c-bfd1-4547-ae64-ed412d57d541" />
+    <file url="file://$PROJECT_DIR$/week 42/music_solutions.sql" value="0228b97c-bfd1-4547-ae64-ed412d57d541" />
     <file url="file://$PROJECT_DIR$/week 42/temp.sql" value="92a0fcce-a2c8-47cf-a3a3-d31377c7dc8f" />
   </component>
 </project>
